@@ -18,6 +18,8 @@ public class FactoryPatternDemo {
 		Shape shape3=shapeFactory.getShape("Square");
 		//距喘Square議draw圭隈
 		shape3.draw();
+		//test。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+		shape3.draw();
 	}
 
 }
